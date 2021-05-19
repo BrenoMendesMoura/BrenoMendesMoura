@@ -34,6 +34,6 @@
 
 -🔍 Em busca de conhecimento e experiências novas.
 
--📡 No momento estou realizando meu projeto voltado ao TCC(Técnico) (site/aplicativo), estudando Kotlin para inserção do aplicativo.
+-📡 No momento estou desenvolvendo meu projeto voltado ao TCC (site/aplicativo), estudando Kotlin para inserção no aplicativo e Bootstrap para criação do site.
 
 -📡 Focado no desenvolvimento e planejamento de novas soluções de software utilizando linguagens como C#, Java e PHP. Além disso, estou em constante aprendizado nas áreas de BI e Cultura DevOps. Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
