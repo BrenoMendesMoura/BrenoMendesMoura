@@ -24,6 +24,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:bmoura.profissional@gmail.com)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif"/>
+
+
 -💬 Sobre mim: Amo jogar.
 
 -🔍 Em busca de conhecimento e experiências novas.
