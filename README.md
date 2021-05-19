@@ -23,12 +23,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)](https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:bmoura.profissional@gmail.com)
 
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif"/>
 -💬 Sobre mim: Amo jogar.
 
 -🔍 Em busca de conhecimento e experiências novas.
 
 -📡 No momento estou realizando meu projeto voltado ao TCC(Técnico) (site/aplicativo), estudando Kotlin para inserção do aplicativo.
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif"/>
 -📡 Focado no desenvolvimento e planejamento de novas soluções de software utilizando linguagens como C#, Java e PHP. Além disso, estou em constante aprendizado nas áreas de BI e Cultura DevOps. Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
