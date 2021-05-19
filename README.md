@@ -11,7 +11,7 @@ Me llamo Breno y tengo 17 años, por momiento intento adentrar un poco más en l
 ## 👨🏻‍💻Breno Mendes
 
   
-
+<iframe src="https://giphy.com/embed/3o7aCTQr3cdC1bXWi4" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thank-you-arigatou-shinseiki-evangerion-3o7aCTQr3cdC1bXWi4">via GIPHY</a></p>
 
 
   
@@ -22,7 +22,8 @@ Abaixo há alguns links associados a meu perfil... | Abajo hay algunos links aso
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrenoMendesMoura)](https://github.com/BrenoMendesMoura)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)](https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:bmoura.profissional@gmail.com)
-<img align="right" alt="GIF" height="160px" src="https://giphy.com/gifs/thank-you-arigatou-shinseiki-evangerion-3o7aCTQr3cdC1bXWi4" />
+
+
 -💬 Sobre mim: Amo jogar
 
 -🔍 Estudante
