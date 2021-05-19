@@ -11,9 +11,9 @@ Me llamo Breno y tengo 17 años, por momiento intento adentrar un poco más en l
 ## 👨🏻‍💻Breno Mendes
 
   
-<iframe src="https://giphy.com/embed/3o7aCTQr3cdC1bXWi4" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thank-you-arigatou-shinseiki-evangerion-3o7aCTQr3cdC1bXWi4">via GIPHY</a></p>
 
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/3o7aCTQr3cdC1bXWi4/giphy.gif"/>
   
 
 Abaixo há alguns links associados a meu perfil... | Abajo hay algunos links asociados a mi perfil
