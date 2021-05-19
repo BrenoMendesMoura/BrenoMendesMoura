@@ -29,4 +29,9 @@ Abaixo há alguns links associados a meu perfil... | Abajo hay algunos links aso
 
 -📡 No momento estou realizando meu projeto voltado ao TCC
 
+Github Stats
+
+languages
+
+
 Cursando técnico em desenvolvimento de sistema pela etec de Máua e atualmente cursando TADS na universidade Nove de Julho. Focado no desenvolvimento e planejamento de novas soluções de software utilizando linguagens como C#, Java e PHP. Além disso, estou em constante aprendizado nas áreas de BI e Cultura DevOps. Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
