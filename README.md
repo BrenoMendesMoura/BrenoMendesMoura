@@ -19,7 +19,7 @@ Me llamo Breno y tengo 17 años, por momiento intento adentrar un poco más en l
 Abaixo há alguns links associados a meu perfil... | Abajo hay algunos links asociados a mi perfil
 
 
-![Linkedin Badge](https://img.shields.io/badge/-Breno%20Mendes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)]
+![Linkedin Badge](https://img.shields.io/badge/-Breno%20Mendes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)(https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)]
 
 [![Gmail Badge](https://img.shields.io/badge/-bmoura.profissional@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:bmoura.profissional@gmail.com)
 
