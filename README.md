@@ -24,9 +24,9 @@ Abaixo há alguns links associados a meu perfil... | Abajo hay algunos links aso
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:bmoura.profissional@gmail.com)
 
 
--💬 Sobre mim: Amo jogar 
+-💬 Sobre mim: Amo jogar.
 
--🔍 Estudante
+-🔍 Em busca de conhecimento e experiências novas.
 
 -📡 No momento estou realizando meu projeto voltado ao TCC(Técnico) (site/aplicativo), estudando Kotlin para inserção do aplicativo.
 
