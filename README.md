@@ -1,5 +1,6 @@
 #  Seja Bem vindo | Sea Bienvenido 👋
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/3o7aCTQr3cdC1bXWi4/giphy.gif"/>
 
 Me chamo Breno e tenho 17 anos, no momento estou me aprofundando mais no mercado de trabalho. Estou estudando **TADS** na universidade UNI9 e **DES** na ETEC.
 
@@ -13,7 +14,6 @@ Me llamo Breno y tengo 17 años, por momiento intento adentrar un poco más en l
   
 
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/3o7aCTQr3cdC1bXWi4/giphy.gif"/>
   
 
 Abaixo há alguns links associados a meu perfil... | Abajo hay algunos links asociados a mi perfil
