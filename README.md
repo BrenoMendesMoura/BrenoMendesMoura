@@ -30,5 +30,5 @@
 
 -📡 No momento estou realizando meu projeto voltado ao TCC(Técnico) (site/aplicativo), estudando Kotlin para inserção do aplicativo.
 
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif"/>
 -📡 Focado no desenvolvimento e planejamento de novas soluções de software utilizando linguagens como C#, Java e PHP. Além disso, estou em constante aprendizado nas áreas de BI e Cultura DevOps. Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
