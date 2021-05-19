@@ -24,12 +24,11 @@ Abaixo há alguns links associados a meu perfil... | Abajo hay algunos links aso
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:bmoura.profissional@gmail.com)
 
 
--💬 Sobre mim: Amo jogar
+-💬 Sobre mim: Amo jogar 
 
 -🔍 Estudante
 
--📡 No momento estou realizando meu projeto voltado ao TCC
+-📡 No momento estou realizando meu projeto voltado ao TCC(Técnico) (site/aplicativo), estudando Kotlin para inserção do aplicativo.
 
 
-
-Cursando técnico em desenvolvimento de sistema pela etec de Máua e atualmente cursando TADS na universidade Nove de Julho. Focado no desenvolvimento e planejamento de novas soluções de software utilizando linguagens como C#, Java e PHP. Além disso, estou em constante aprendizado nas áreas de BI e Cultura DevOps. Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
+-📡 Focado no desenvolvimento e planejamento de novas soluções de software utilizando linguagens como C#, Java e PHP. Além disso, estou em constante aprendizado nas áreas de BI e Cultura DevOps. Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
