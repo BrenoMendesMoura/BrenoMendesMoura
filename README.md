@@ -23,8 +23,6 @@
 
   
 
-💻Abaixo há alguns links associados a meu perfil... | 💻Abajo hay algunos links asociados a mi perfil
-
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif"/>
 
 
