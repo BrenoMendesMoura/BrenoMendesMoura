@@ -38,5 +38,4 @@
 
 -📡 No momento estou desenvolvendo meu projeto voltado ao TCC (site/aplicativo), estudando Kotlin para inserção no aplicativo e Bootstrap para criação do site.
 
--📡 Focado no desenvolvimento e planejamento de novas soluções de software utilizando linguagens como C#, Java e PHP. Além disso, estou em constante aprendizado nas áreas de BI e Cultura DevOps. Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.![receita2](https://user-images.githubusercontent.com/80074264/119061395-a5130c80-b9aa-11eb-9225-f870af98fe5f.jpg)
-
+-📡 Focado no desenvolvimento e planejamento de novas soluções de software utilizando linguagens como C#, Java e PHP. Além disso, estou em constante aprendizado nas áreas de BI e Cultura DevOps. Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.!
