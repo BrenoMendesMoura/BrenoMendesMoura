@@ -1,6 +1,5 @@
 #  Seja Bem vindo | Sea Bienvenido 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/BrenoMendesMoura)](https://github.com/BrenoMendesMoura)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)](https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:bmoura.profissional@gmail.com)
 
@@ -29,6 +28,13 @@
 
 
 
+###Tecnologias
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 
 
 
