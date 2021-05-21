@@ -24,6 +24,7 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoMendesMoura&layout=compact)](https://github.com/BrenoMendesMoura/github-readme-stats)
 
 
 ### Linguagens
