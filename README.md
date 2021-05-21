@@ -14,11 +14,15 @@
 
 
 
+
+
   
   
   
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif"/>
+
+
 
 
 
@@ -33,6 +37,9 @@
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>]
 [<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>]
 [<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>]
+
+
+
 
 
 
