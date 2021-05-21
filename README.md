@@ -41,13 +41,13 @@
 #### DataBases
  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenomendesmoura&show_icons=true&locale=en&layout=compact" alt="brenomendesmoura" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenomendesmoura&show_icons=true&locale=en&layout=compact" alt="brenomendesmoura" /></p>
 <br>
 <br>
 <br>
 <br>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brenomendesmoura&show_icons=true&locale=en" alt="brenomendesmoura" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brenomendesmoura&show_icons=true&locale=en" alt="brenomendesmoura" /></p>
 
 
 
