@@ -16,13 +16,10 @@
 
 
 <br>
-<br>
 
 
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif"/>
-
-
 
 
 
@@ -34,20 +31,16 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
  
  
- 
 #### FrameWorks
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 
 #### DataBases
  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenomendesmoura&show_icons=true&locale=en&layout=compact" alt="brenomendesmoura" /></p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=brenomendesmoura&show_icons=true&locale=en" alt="brenomendesmoura" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brenomendesmoura&show_icons=true&locale=en" alt="brenomendesmoura" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenomendesmoura&show_icons=true&locale=en&layout=compact" alt="brenomendesmoura" /></p>
+
 
 
 
