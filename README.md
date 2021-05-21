@@ -14,7 +14,7 @@
 
 
 
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenomendesmoura&show_icons=true&locale=en&layout=compact" alt="brenomendesmoura" /></p>
 <br>
 
 
@@ -33,11 +33,11 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenomendesmoura&show_icons=true&locale=en&layout=compact" alt="brenomendesmoura" /></p>
 
 
 
 
+<br>
 <br>
 
 -📡 No momento estou desenvolvendo meu projeto voltado ao TCC (site/aplicativo), estudando Kotlin para inserção no aplicativo e Bootstrap para criação do site.
