@@ -1,7 +1,6 @@
 <h1 align="center">Seja Bem vindo 👋 | Sea Bienvenido 👋 </h1>
 <h3 align="center">Breno Mendes</h3>
 
-- 🔭 I’m currently working on **TCC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
