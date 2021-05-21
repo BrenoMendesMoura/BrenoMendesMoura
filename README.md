@@ -12,7 +12,7 @@
 
 💻Me llamo Breno y tengo 17 años, por momiento intento adentrar un poco más en lo mercado de trabajo. Ahora estoy estudiando **Técnico en Analise y Desenvolvimento de Sistemas** en la universidad UNI9 y **DES** en ETEC
 
-
+<br>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenomendesmoura&show_icons=true&locale=en&layout=compact" alt="brenomendesmoura" /></p>
 <br>
