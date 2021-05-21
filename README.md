@@ -1,5 +1,7 @@
 #  Seja Bem vindo | Sea Bienvenido 👋
 
+## 👨🏻‍💻Breno Mendes
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)](https://www.linkedin.com/in/breno-mendes-moura-1b11341a2/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:bmoura.profissional@gmail.com)
 
@@ -10,16 +12,6 @@
 
 💻Me llamo Breno y tengo 17 años, por momiento intento adentrar un poco más en lo mercado de trabajo. Ahora estoy estudiando **Técnico en Analise y Desenvolvimento de Sistemas** en la universidad UNI9 y **DES** en ETEC
 
-
-
-
-
-
-
-## 👨🏻‍💻Breno Mendes
-
-  
-  
 
 
   
@@ -39,9 +31,6 @@
 
 
 
--💬 Sobre mim: Amo jogar.
-
--🔍 Em busca de conhecimento e experiências novas.
 
 -📡 No momento estou desenvolvendo meu projeto voltado ao TCC (site/aplicativo), estudando Kotlin para inserção no aplicativo e Bootstrap para criação do site.
 
