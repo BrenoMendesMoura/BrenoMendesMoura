@@ -7,7 +7,13 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/3o7aCTQr3cdC1bXWi4/giphy.gif"/>
 
-💻Me chamo Breno e tenho 18 anos, no momento estou me aprofundando mais no mercado de trabalho. Estou estudando **TADS** na universidade UNI9 e **DES** na ETEC.
+💻Estagiário de Business Intelligence, técnico em desenvolvimento de sistemas(ETEC) e cursando análise e desenvolvimento de sistemas(UNINOVE). 
+
+Atualmente focado em desenvolver soluções para determinados projetos presentes no meu cotidiano, focado em análise de dados e resolução de problemas na área de Business Intelligence.
+
+Estou em constante aprendizado nas áreas de BI e cultura DevOps. 
+
+Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
 
 
 
