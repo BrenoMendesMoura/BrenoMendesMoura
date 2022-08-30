@@ -39,4 +39,3 @@ Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
 <br>
 
 
--📡 Focado no desenvolvimento e planejamento de novas soluções de software utilizando linguagens como C#. Aém disso, estou em constante aprendizado nas áreas de BI e Cultura DevOps. Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.!
