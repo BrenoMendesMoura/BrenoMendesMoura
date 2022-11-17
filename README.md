@@ -17,9 +17,13 @@
 >
 > Tenho facilidade com ferramentas de análise de dados e criação de reports, como por exemplo:
 > POWER BI
+> 
 > LOOKER STUDIO
+> 
 > BIG QUERY
+> 
 > METABASE
+> 
 > Montagem de queries sendo elas em: DQL e um pouco de DML.
 > 
 > Utilizo frequentemente Espanhol e português no meu cotidiano, tenho o costume de treinar a conversação em jogos online
