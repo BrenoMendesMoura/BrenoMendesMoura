@@ -54,11 +54,9 @@
  <a href="https://www.notion.so/" target="_blank"> 
   <img src="https://user-images.githubusercontent.com/80074264/202475989-2a7e4462-0fea-431a-972f-902c6376916e.svg" alt="notion" width="40" height="40"/> 
  </a> 
-</p>
+ 
 
- <p>
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenomendesmoura&show_icons=true&locale=en&layout=compact"      alt="brenomendesmoura" />
-</p>
 </p>
 
 
