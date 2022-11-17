@@ -24,14 +24,17 @@ Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
  
 
 > #### DevOps
-<p align="center">
+<p align="justify-content">
  
- <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+ <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
  </a>
- <a href="https://trello.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> 
+ <a href="https://trello.com" target="_blank"> 
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> 
  </a> 
   
- <a href="https://www.notion.so/" target="_blank"> <img src="https://user-images.githubusercontent.com/80074264/202475989-2a7e4462-0fea-431a-972f-902c6376916e.svg" alt="notion" width="40" height="40"/> 
+ <a href="https://www.notion.so/" target="_blank"> 
+  <img src="https://user-images.githubusercontent.com/80074264/202475989-2a7e4462-0fea-431a-972f-902c6376916e.svg" alt="notion" width="40" height="40"/> 
  </a> 
 </p>
 
