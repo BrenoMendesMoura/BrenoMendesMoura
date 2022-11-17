@@ -24,7 +24,7 @@ Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
  
 
 > #### DevOps
-<p align="left">
+<p align="justify-content">
  
  <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
  </a>
