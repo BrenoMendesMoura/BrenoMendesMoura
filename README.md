@@ -7,13 +7,20 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/3o7aCTQr3cdC1bXWi4/giphy.gif"/>
 
-💻Estagiário de Business Intelligence, técnico em desenvolvimento de sistemas(ETEC) e cursando análise e desenvolvimento de sistemas(UNINOVE). 
-
-Atualmente focado em desenvolver soluções para determinados projetos presentes no meu cotidiano, focado em análise de dados e resolução de problemas na área de Business Intelligence.
-
-Estou em constante aprendizado nas áreas de BI e cultura DevOps. 
-
-Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
+> 💻 Atualmente estou estagiando na área de Business Intelligence, formado em Desenvolvimento de sistemas na ETEC e cursando análise e desenvolvimento de sistemas na UNI9.
+> 
+> Focado em desenvolver soluções para determinados projetos presentes na minha rotina, focado em análise de dados e resolução de problemas na área de Business Intelligence.
+> 
+> Estou em constante aprendizado nas áreas de BI e cultura DevOps.
+>
+> Tenho facilidade com ferramentar de análise de dados e criação de reports, como por exemplo:
+> POWER BI
+> LOOKER STUDIO
+> BIG QUERY
+> METABASE
+> Montagem de queries sendo elas em: DQL e um pouco de DML.
+> 
+> Utilizo frequentemente Espanhol e português no meu cotidiano, tenho o costume de treinar a conversação em jogos online
 
 
 
