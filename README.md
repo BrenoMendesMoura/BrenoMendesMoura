@@ -22,7 +22,7 @@ Espanhol e Português são idiomas frequentemente utilizados no meu cotidiano.
 > #### Linguagens e Ferramentas em aprendizagem
 <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"></a></p>
  
-https://iconape.com/notion-app-logo-logo-icon-svg-png.html
+
 > #### DevOps
 <p align="left">
  
@@ -31,7 +31,7 @@ https://iconape.com/notion-app-logo-logo-icon-svg-png.html
  <a href="https://trello.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> 
  </a> 
   </a>
- <a href="https://trello.com" target="_blank"> <img src="https://iconape.com/notion-app-logo-logo-icon-svg-png.html" alt="trello" width="40" height="40"/> 
+ <a href="https://www.notion.so/" target="_blank"> <img src="https://icons8.com/icon/nvtEH6DpqruC/notion" alt="trello" width="40" height="40"/> 
  </a> 
 </p>
 
