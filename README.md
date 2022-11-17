@@ -11,9 +11,7 @@
 
 > 💻 Atualmente estou estagiando na área de Business Intelligence, formado em Desenvolvimento de sistemas na ETEC e cursando análise e desenvolvimento de sistemas na UNI9.
 > 
-> Focado em desenvolver soluções para determinados projetos presentes na minha rotina, focado em análise de dados e resolução de problemas na área de Business Intelligence.
-> 
-> Estou em constante aprendizado nas áreas de BI e cultura DevOps.
+> Focado em análise de dados e resolução de problemas na área de Business Intelligence. Estou em constante aprendizado nas áreas de BI e cultura DevOps.
 >
 > Tenho facilidade com ferramentas de análise de dados e criação de reports, como por exemplo:
 > 
