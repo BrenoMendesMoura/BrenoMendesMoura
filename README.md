@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenomendesmoura/)](https://www.linkedin.com/in/brenomendesmoura/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bmoura.profissional@gmail.com)](mailto:bmoura.profissional@gmail.com)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/3o7aCTQr3cdC1bXWi4/giphy.gif"/>
 
 <br>
 
