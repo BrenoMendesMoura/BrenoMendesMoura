@@ -8,23 +8,11 @@
 
 <br>
 
-> 💻 Atualmente estou estagiando na área de Business Intelligence, formado em Desenvolvimento de sistemas na ETEC e cursando análise e desenvolvimento de sistemas na UNI9.
-> 
-> Focado em análise de dados e resolução de problemas na área de Business Intelligence. Estou em constante aprendizado nas áreas de BI e cultura DevOps.
->
-> Tenho facilidade com ferramentas de análise de dados e criação de reports, como por exemplo:
-> 
-> - POWER BI
-> 
-> - LOOKER STUDIO
-> 
-> - BIG QUERY
-> 
-> - METABASE
-> 
-> - Montagem de queries sendo elas em: DQL e um pouco de DML.
-> 
-> Utilizo frequentemente Espanhol e português no meu cotidiano, tenho o costume de treinar a conversação em jogos online
+Pós-graduando em Data Science e Analytics e recém formado em Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho e anteriormente formado em Desenvolvimento de Sistemas após passar no vestibular da ETEC! Possui experiência com análise de dados, montagem de queries em DQL, criação de relatórios no PowerBI e Looker Studio.
+
+Focado em análise de dados, está em constante aprendizado nas áreas de BI e cultura DevOps. Atualmente efetivado na área de Business Intelligence.
+
+Tem o costume de popular alguns repositórios no GitHub para demonstrar e exemplificar experiências vivenciadas durante o curso Técnico, Graduação tecnóloga e pós-graduação, desde criação de queries em postgreeSQL, arquivos salvos de um TCC e alguns desafios em que participou.
 
 
 <br>
