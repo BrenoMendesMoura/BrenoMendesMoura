@@ -18,35 +18,4 @@ Tem o costume de popular alguns repositórios no GitHub para demonstrar e exempl
 <br>
 
 
-#### Linguagens e Ferramentas em aprendizagem
-<p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
- </a> 
- <a href="https://mariadb.org/" target="_blank">
- </a>
-</p>
- 
-
-#### DevOps
-<p align="justify-content center" style="pading:40px;">
- 
- <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
- </a>
- <a href="https://trello.com" target="_blank"> 
-  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/> 
- </a> 
-  
- <a href="https://www.notion.so/" target="_blank"> 
-  <img src="https://user-images.githubusercontent.com/80074264/202475989-2a7e4462-0fea-431a-972f-902c6376916e.svg" alt="notion" width="40" height="40"/> 
- </a> 
- 
-
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=brenomendesmoura&show_icons=true&locale=en&layout=compact"      alt="brenomendesmoura" />
-</p>
-
-
-#### DataBases
-<p align="left"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
 
